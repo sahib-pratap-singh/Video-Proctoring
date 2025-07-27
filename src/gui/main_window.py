@@ -323,14 +323,18 @@ class ProctoringMainWindow(tk.Tk):
                 fg=violation_color
             )
 
-            # Get face and eye accuracy from counters
-            face_accuracy = (self.face_detection_count / self.total_frames) * 100 if self.total_frames > 0 else 0
-            eye_accuracy = (self.eye_detection_count / self.total_frames) * 100 if self.total_frames > 0 else 0
-            # If no face detected at all, show 0%
-            if self.face_detection_count == 0:
-                face_accuracy = 0
-            if self.eye_detection_count == 0:
-                eye_accuracy = 0
+            # Get face and eye accuracy from detectors if available
+            face_accuracy = None
+            eye_accuracy = None
+            if hasattr(self.face_detector, 'get_accuracy'):
+                face_accuracy = self.face_detector.get_accuracy()
+            if hasattr(self.eye_detector, 'get_accuracy'):
+                eye_accuracy = self.eye_detector.get_accuracy()
+            # Fallback to counters if not available
+            if face_accuracy is None:
+                face_accuracy = (self.face_detection_count / self.total_frames) * 100 if self.total_frames > 0 else 0
+            if eye_accuracy is None:
+                eye_accuracy = (self.eye_detection_count / self.total_frames) * 100 if self.total_frames > 0 else 0
             self.face_accuracy_label.config(text=f"Face Detection: {face_accuracy:.1f}%")
             self.eye_accuracy_label.config(text=f"Eye Detection: {eye_accuracy:.1f}%")
 
@@ -476,52 +480,65 @@ class ProctoringMainWindow(tk.Tk):
                 face_status = "No face detected"
                 eye_status = "Eyes not detected"
                 proctoring_data = None
-                face_detected = False
-                eyes_detected = False
                 if faces and landmarks:
                     face_status = f"Face detected ({len(faces)})"
                     self.face_detection_count += 1
-                    face_detected = True
                     proctoring_data = self.eye_detector.process_frame(landmarks, frame)
                     # Update current metrics for dashboard
                     if proctoring_data:
+                        # Penalize attention score if looking away or face is not centered
                         flags = proctoring_data.get('flags', {})
                         attention_score = proctoring_data.get('attention_score', 0)
                         if flags.get('looking_away') or flags.get('suspicious_movement'):
-                            pass
+                            attention_score = min(attention_score, 70)  # Reduce score if not focused
                         self.current_attention_score = attention_score
                         self.current_gaze_direction = proctoring_data.get('gaze_direction', (0, 0))
                         blink_data = proctoring_data.get('blink_data', {})
                         self.current_blink_rate = blink_data.get('blink_rate', 0)
-                        left_eye = proctoring_data.get('left_eye')
-                        right_eye = proctoring_data.get('right_eye')
-                        if left_eye and right_eye and left_eye.pupil_center != (0, 0) and right_eye.pupil_center != (0, 0):
-                            self.eye_detection_count += 1
-                            eyes_detected = True
                 else:
                     # No face detected, set attention score to 0
                     self.current_attention_score = 0
                     self.current_gaze_direction = (0, 0)
                     self.current_blink_rate = 0
-                    face_detected = False
-                    eyes_detected = False
+                
                 # Eye status logic
                 left_eye = proctoring_data.get('left_eye') if proctoring_data else None
                 right_eye = proctoring_data.get('right_eye') if proctoring_data else None
                 flags = proctoring_data.get('flags', {}) if proctoring_data else {}
+                
                 if left_eye and right_eye:
                     if left_eye.pupil_center == (0, 0) or right_eye.pupil_center == (0, 0):
-                        eye_status = "Eyes not detected"
+                        eye_status = "Please look into the screen"
                     else:
-                        eye_status = "Eyes detected"
+                        gaze_x, gaze_y = proctoring_data.get('gaze_direction', (0, 0))
+                        if flags.get('looking_away'):
+                            eye_status = "Looking away from screen"
+                        elif abs(gaze_x) < 20 and abs(gaze_y) < 20:
+                            eye_status = "Eyes focused - Good attention"
+                            self.eye_detection_count += 1
+                        else:
+                            direction = []
+                            if gaze_x < -20:
+                                direction.append("Left")
+                            elif gaze_x > 20:
+                                direction.append("Right")
+                            if gaze_y < -20:
+                                direction.append("Up")
+                            elif gaze_y > 20:
+                                direction.append("Down")
+                            eye_status = "Looking " + " ".join(direction) if direction else "Eyes detected"
+                            self.eye_detection_count += 1
                 else:
                     eye_status = "Eyes not detected"
+                    
                 # Handle calibration
                 if self.calibration_mode and proctoring_data and proctoring_data.get('gaze_direction'):
                     self.eye_detector.calibrate_center_gaze(proctoring_data['gaze_direction'])
+                
                 # Process proctoring data
                 if self.proctoring_mode and proctoring_data:
                     self.process_proctoring_data(proctoring_data)
+                    
                 # Update display
                 self.update_video_display(frame, faces, landmarks, proctoring_data)
                 self.update_status(f"{face_status} | {eye_status}")
@@ -530,8 +547,9 @@ class ProctoringMainWindow(tk.Tk):
                 self.frame_times.append(frame_time)
             except Exception as e:
                 print(f"Error in video processing: {e}")
+                self.update_status(f"Error: {str(e)}")
             time.sleep(0.033)  # ~30 FPS
-
+            
     def process_proctoring_data(self, data):
         """Process proctoring data and handle violations."""
         attention_score = data.get('attention_score', 0)
@@ -586,7 +604,7 @@ class ProctoringMainWindow(tk.Tk):
         # Add "No Face Detected" to violations if no face is detected
         if self.total_frames > 0:
             recent_face_ratio = self.face_detection_count / self.total_frames
-            if recent_face_ratio < 0.8 or self.face_detection_count == 0:
+            if recent_face_ratio < 0.8:
                 if 'No Face Detected' not in active_violations:
                     active_violations.append('No Face Detected')
         # Add "Looking Away" if gaze is not centered
