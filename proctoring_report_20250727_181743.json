@@ -1,0 +1,2221 @@
+{
+  "session_duration": 77.28777647018433,
+  "total_violations": 201,
+  "violation_details": [
+    {
+      "timestamp": "2025-07-27T18:16:33.186858",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -4.108796296296297,
+        -11.71875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:33.422491",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -7.327586206896552,
+        -12.332589285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:33.673950",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -5.587484035759898,
+        -21.875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:33.916069",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -5.266203703703704,
+        -24.895833333333336
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:34.149149",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -0.9781959378733571,
+        -21.42361111111111
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:35.204286",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -8.004926108374384,
+        -13.671875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:35.458860",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -6.504629629629629,
+        -17.1875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:35.716813",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -5.25462962962963,
+        -20.703125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:35.948620",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -8.732439335887612,
+        -14.84375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:36.089630",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -5.45977011494253,
+        -22.916666666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:36.233360",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -6.30787037037037,
+        -23.00347222222222
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:36.394979",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -6.415229885057472,
+        -18.359375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:36.551024",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -12.211360837438423,
+        -17.1875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:36.697738",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -7.543103448275861,
+        -20.64732142857143
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:36.857218",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -6.32183908045977,
+        -14.84375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.028587",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -9.709821428571429,
+        -12.053571428571429
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.184072",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 65.0,
+      "gaze_direction": [
+        -6.4732142857142865,
+        -22.265625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.340734",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.643353174603176,
+        -15.625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.481281",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.627155172413794,
+        -16.517857142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.638391",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.192252304147464,
+        -18.136160714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.793043",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.29741379310345,
+        -24.609375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:37.947859",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.090773809523809,
+        -19.270833333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:38.102433",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -14.439655172413795,
+        -24.16666666666667
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:38.259524",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.820077864293658,
+        -18.31597222222222
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:38.416891",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -13.394396551724139,
+        -29.66269841269841
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:38.599186",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -14.978448275862071,
+        -18.30357142857143
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:38.838650",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.712319243604005,
+        -21.91840277777778
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:39.091939",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.756864623243934,
+        -22.04861111111111
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:39.328576",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.573275862068965,
+        -15.885416666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:39.575220",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.3640873015873023,
+        -18.247767857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:39.811446",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.852650063856959,
+        -11.651785714285714
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.000848",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.258939974457216,
+        -16.927083333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.152064",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.4921775223499365,
+        -14.384920634920633
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.291727",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.9930555555555554,
+        -17.274305555555557
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.438650",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.724371693121694,
+        -17.578125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.591768",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.091594827586207,
+        -17.311507936507937
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.747039",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.7476053639846745,
+        -22.65625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:40.899437",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.3482142857142856,
+        -21.571180555555557
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:41.059311",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.803571428571429,
+        -16.07142857142857
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:41.209991",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.187003968253968,
+        -17.782738095238095
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:41.453522",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.129464285714286,
+        -13.671875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:41.690845",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.467672413793103,
+        -21.160714285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:41.947455",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.42548076923077,
+        -20.3125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:42.203229",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        15.163352272727273,
+        0.07440476190476097
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:42.458334",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        7.1937321937321945,
+        -1.5625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:42.700866",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.2967032967032974,
+        -15.625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:42.954986",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.972314323607427,
+        -19.86607142857143
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:43.214922",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.1314102564102555,
+        -16.40625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:43.504028",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.918263090676884,
+        -19.921875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:43.776362",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.851851851851851,
+        -18.359375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:44.029520",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.23783866995074,
+        -12.444196428571429
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:44.290871",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.03125,
+        -13.504464285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:44.563153",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.702380952380952,
+        -20.479910714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:44.819909",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.617097701149424,
+        -18.861607142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:45.073001",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.020833333333334,
+        -13.28125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:45.348798",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.790364583333333,
+        -14.53125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:45.628565",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.916666666666667,
+        -14.84375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:45.879519",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.030385944700461,
+        -20.3125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:46.141131",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.004310344827587,
+        -12.946428571428571
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:46.415744",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.556752873563218,
+        -16.40625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:46.708819",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.586206896551724,
+        -25.0
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:46.970711",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.051005747126437,
+        -16.964285714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:47.262521",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.979166666666666,
+        -17.91294642857143
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:47.466283",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.61278735632184,
+        -28.571428571428573
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:47.741930",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.288793103448276,
+        -17.857142857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:47.980824",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.5580357142857135,
+        -14.955357142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:48.246596",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.94971264367816,
+        -16.796875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:48.521104",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.063936781609195,
+        -19.444444444444443
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:48.779810",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.9331896551724146,
+        -14.397321428571429
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:49.028842",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.125,
+        -15.01736111111111
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:49.297666",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.5632183908045967,
+        -9.542410714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:49.568498",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.530450500556173,
+        -16.796875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:49.842100",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.6963292547274733,
+        -12.5
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:50.108947",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.721354166666666,
+        -17.801339285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:50.389263",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.194892473118278,
+        -15.885416666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:50.654227",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.395833333333333,
+        -17.410714285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:50.925987",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.0,
+        -16.40625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:51.199597",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.282258064516128,
+        -20.9375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:51.467710",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.895833333333334,
+        -16.761363636363637
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:51.735897",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.610887096774194,
+        -22.272727272727273
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:51.918472",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.121639784946238,
+        -24.431818181818183
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:52.183919",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.46484375,
+        -19.375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:52.358729",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.037446120689655,
+        -19.034090909090907
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:52.519208",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.669354838709678,
+        -24.0625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:52.712164",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.5421301446051174,
+        -15.852272727272728
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:52.980162",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.24179644048943,
+        -15.928819444444445
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:53.236732",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        0.5208333333333339,
+        -17.734375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:53.503557",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.793220766129032,
+        -14.23611111111111
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:53.775876",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.708333333333332,
+        -18.836805555555557
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:54.056282",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.333333333333332,
+        -12.890625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:54.328561",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.18279569892473,
+        -23.214285714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:54.589392",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.397270114942528,
+        -14.384920634920633
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:54.855514",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.9039589442815235,
+        -14.880952380952383
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:55.117942",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.2310606060606046,
+        -22.172619047619047
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:55.391502",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.2254901960784306,
+        -18.96701388888889
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:55.658688",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -0.9668385490753906,
+        -12.265625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:55.928229",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.417273042273043,
+        -14.0625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:56.208014",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.817454268292683,
+        -12.430555555555557
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:56.487768",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.53125,
+        -11.931818181818182
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:56.756185",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.274038461538462,
+        -16.193181818181817
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:57.025499",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.3467987804878065,
+        -19.010416666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:57.299395",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.03516057585825,
+        -15.02403846153846
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:57.592174",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.2299107142857135,
+        -18.3984375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:57.865948",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        2.9020579268292686,
+        -25.520833333333336
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:58.125127",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -2.8273809523809508,
+        -19.661458333333336
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:58.882778",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.310267857142857,
+        -11.5625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:59.157459",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.021341463414634,
+        -10.817307692307692
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:59.449597",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.949314024390244,
+        -14.182692307692307
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:59.702115",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.081845238095238,
+        -11.875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:16:59.873756",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.689096980255518,
+        -21.6015625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:00.044856",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.3504464285714288,
+        -22.0703125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:00.189111",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -0.9218931475029031,
+        -20.07615546218487
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:00.340572",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -0.22865853658536572,
+        -20.442708333333336
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:00.483784",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.2556620209059224,
+        -20.703125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:00.626974",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        4.761904761904761,
+        -21.328125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:10.926430",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.74908424908425,
+        -17.421875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:11.188030",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.862554112554112,
+        -18.154761904761905
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:11.445136",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.788306451612904,
+        -23.75
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:11.730856",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.138392857142858,
+        -20.833333333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:11.975723",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -1.713362068965517,
+        -10.267857142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:12.484766",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -16.271551724137932,
+        -24.017857142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:12.977301",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -15.848214285714285,
+        -18.489583333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:13.234366",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -13.006524725274726,
+        -25.0
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:13.494969",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.142857142857142,
+        -21.52777777777778
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:13.774021",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.333333333333334,
+        -20.3125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:14.022552",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -14.467592592592595,
+        -13.169642857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:14.224211",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.755291005291006,
+        -20.625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:14.408438",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -12.791895604395604,
+        -11.160714285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:14.569022",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.177884615384615,
+        -24.21875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:14.747733",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -13.063660477453581,
+        -15.625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:15.006368",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.843335543766578,
+        -17.578125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:15.262644",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.842175066312997,
+        -24.609375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:21.053129",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        7.619463869463868,
+        -13.304924242424242
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:21.587183",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.171296296296296,
+        -18.359375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:21.910087",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.002314814814815,
+        -15.625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:23.087118",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.628315649867373,
+        -21.484375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:23.858192",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.567307692307692,
+        -21.614583333333336
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:24.134999",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.924107142857142,
+        -13.560267857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:24.396083",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.48595146871009,
+        -16.796875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:24.657874",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.530172413793103,
+        -20.963541666666664
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:24.925703",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.208333333333332,
+        -26.51909722222222
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:25.193195",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.120133481646274,
+        -26.38888888888889
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:25.465349",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.548685782556751,
+        -19.401041666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:25.739183",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.982574884792626,
+        -23.4375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:26.021192",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.797619047619047,
+        -19.401041666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:26.210711",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.375,
+        -22.265625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:26.369031",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.247023809523809,
+        -22.377232142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:26.541648",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.666666666666666,
+        -22.352430555555557
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:26.799224",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.215773809523809,
+        -20.48611111111111
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:27.053214",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.7008928571428585,
+        -22.786458333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:27.305962",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.370205026455027,
+        -18.75
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:27.576574",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.205853174603176,
+        -21.428571428571427
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:27.849683",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.530753968253968,
+        -20.546875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:28.153944",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.408997252747252,
+        -16.015625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:28.436888",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.11111111111111,
+        -16.238839285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:28.692921",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.383928571428571,
+        -18.489583333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:28.968298",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -3.2366071428571423,
+        -17.466517857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:29.228670",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.992337164750959,
+        -10.714285714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:29.489808",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.105324074074074,
+        -27.864583333333336
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:29.770680",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.340939153439154,
+        -13.169642857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:29.935309",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.304728835978835,
+        -21.707589285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:30.112203",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.103598014888338,
+        -61.160714285714285
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:30.364163",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.933035714285714,
+        -15.178571428571429
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:30.658304",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.264784946236557,
+        -19.53125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:30.844110",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.754032258064516,
+        -20.833333333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:31.008661",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.767011088709678,
+        -16.145833333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:31.199431",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.022372159090908,
+        -20.138888888888893
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:31.406059",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.41165329768271,
+        -27.083333333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:31.589657",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.033459595959595,
+        -20.36931818181818
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:31.767512",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.75,
+        -17.897727272727273
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:31.962768",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.209325396825395,
+        -25.625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:32.155890",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.76158301158301,
+        -18.125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:32.308903",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.094251336898394,
+        -20.48611111111111
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:32.455968",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.002068014705882,
+        -22.916666666666664
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:32.595023",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.37079831932773,
+        -28.09659090909091
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:32.751529",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.412815126050422,
+        -21.5625
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:32.924567",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.6811974789915975,
+        -19.6875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:33.113647",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.320945945945946,
+        -23.854166666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:33.293040",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.609243697478993,
+        -22.109375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:33.485096",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.191176470588236,
+        -27.083333333333332
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:33.687488",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.46376050420168,
+        -22.1875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:33.887858",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.878151260504201,
+        -14.6875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:34.081384",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -12.100840336134453,
+        -17.171717171717173
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:34.329383",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -9.705882352941178,
+        -22.272727272727273
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:39.481879",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.049217267552183,
+        -17.113095238095237
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:39.645173",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.688308189655173,
+        -10.546875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:39.812893",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.471394984326018,
+        -21.930803571428573
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:39.972768",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.04440961337513,
+        -9.821428571428571
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:40.136164",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.551167964404895,
+        -26.339285714285715
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:40.303301",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -13.428114571746384,
+        -22.668650793650798
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:40.523728",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -13.34605414746544,
+        -23.046875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:40.805033",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -5.893049568965517,
+        -23.87152777777778
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:41.098958",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -12.273185483870968,
+        -24.21875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:41.650855",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -11.289511494252872,
+        -20.13888888888889
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:41.965478",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.741935483870968,
+        -18.359375
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:42.289411",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.398148148148149,
+        -11.607142857142858
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:42.545872",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -7.627770935960592,
+        -16.276041666666668
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:42.837158",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -4.756773399014778,
+        -13.002232142857142
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:43.102584",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -6.369304187192117,
+        -19.53125
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:43.419835",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -10.714285714285714,
+        -16.796875
+      ]
+    },
+    {
+      "timestamp": "2025-07-27T18:17:43.679927",
+      "violations": [
+        "Excessive Blinking"
+      ],
+      "attention_score": 80.0,
+      "gaze_direction": [
+        -8.407738095238095,
+        -15.625
+      ]
+    }
+  ],
+  "average_attention": 84.88333333333334,
+  "face_accuracy": 89.9425287356322,
+  "eye_accuracy": 89.9425287356322,
+  "report_generated": "2025-07-27T18:17:43.982013"
+}
